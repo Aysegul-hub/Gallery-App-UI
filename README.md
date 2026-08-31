@@ -1,64 +1,58 @@
-# Gallery App UI 🎨
+Gallery App UI 🎨
 
 A modern and minimal desktop Gallery App interface designed in Figma.
 
-## 📌 About the Project
+📌 About the Project
 
 This project is a UI/UX design concept for a desktop-based Gallery App.
 The interface was designed with a focus on simplicity, usability and a clean
-visual experience for browsing and organizing photos.
+visual experience for browsing, searching and organizing photos.
 
-## ✨ Features
+✨ Features
 
-- 🖼️ Modern photo gallery interface
-- 📁 Album organization
-- 🏞️ Media browsing
-- 🔍 Simple and intuitive navigation
-- 👁️ Photo viewing interface
-- 🎨 Clean and minimal visual design
-- 🖥️ Desktop application layout
+* 🖼️ Modern photo gallery interface
+* 📁 Album organization
+* 🏞️ Media browsing
+* 🔍 Search functionality for quickly finding media
+* 👁️ Photo viewing interface
+* 🎨 Clean and minimal visual design
+* 🖥️ Desktop application layout
+* 🖱️ Interactive prototype and navigation
 
-## 🛠️ Design Tools
+🛠️ Design Tools
 
-- Figma
-- UI/UX Design
-- Prototyping
+* Figma
+* UI/UX Design
+* Prototyping
 
-## 📸 Screenshots
+📸 Screenshots
 
-### Gallery
+Gallery
 
-![Gallery](gallery.png)
+Albums
 
-### Albums
+Media
 
-![Albums](albums.png)
+Search
 
-### Media
+Photo View
 
-![Media](media.png)
+Full Design
 
-### Photo View
+🔗 Figma Design
 
-![Photo View](photo-view.png)
+View the Interactive Gallery App Prototype
 
-### Full Design
+📂 Project Files
 
-![Gallery App Design](figma-design.png)
+* Gallery-App-UI.fig — Complete Figma design file
+* gallery.png — Gallery screen
+* albums.png — Albums screen
+* media.png — Media screen
+* search.png — Search screen
+* photo-view.png — Photo viewing screen
+* figma-design.png — Overall design preview
 
-## 🔗 Figma Design
-
-[View the Gallery App Design on Figma](https://www.figma.com/proto/JmKhn0VRC7OTGD27TPj2Du/GALLERY-APP?node-id=0-1&t=gCiX2VmgVJo14v7L-1)
-
-## 📂 Project Files
-
-- `Gallery-App-UI.fig` — Complete Figma design file
-- `gallery.png` — Gallery screen
-- `albums.png` — Albums screen
-- `media.png` — Media screen
-- `photo-view.png` — Photo viewing screen
-- `figma-design.png` — Overall design preview
-
----
+⸻
 
 Designed with Figma 🎨
